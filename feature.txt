@@ -13,5 +13,3 @@ Feature modified.
 Feature tested.
 
 Feature completed.
-
-Wrong input.
